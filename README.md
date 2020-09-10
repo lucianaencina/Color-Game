@@ -1,5 +1,5 @@
 # Color-Game
-## Segundo proyecto realizado en Plataforma 5.
+## Proyecto realizado con HTML5, CSS3 Y JAVASCRIPT.
 
 La idea era hacer un juego, adivinar un color con solo tres datos, los RGB. 
 
